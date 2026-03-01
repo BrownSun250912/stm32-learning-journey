@@ -1,0 +1,13 @@
+Objects/
+Listings/
+*.uvoptx
+*.bak
+*.dep
+*.crf
+*.o
+*.d
+*.axf
+*.map
+*.sct
+*.htm
+*.lnp
