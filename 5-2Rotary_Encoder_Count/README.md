@@ -1,1 +1,1 @@
-# stm32-learning-journey
+**This is a function which triggers rotation encoder counting via EXTI interrupt **
